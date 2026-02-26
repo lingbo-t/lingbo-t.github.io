@@ -699,7 +699,7 @@ a:hover {
 .left-column {
   flex: 0 0 30%; /* Take up 30% of the space */
   text-align: center; /* Center the image horizontally */
-  padding: 20px;
+  padding: 30px;
 }
 
 .left-column img {
