@@ -925,7 +925,7 @@ a:hover {
 
 @media (max-width: 480px) {
   .book-gallery {
-    grid-template-columns: 2fr;
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .cover {
